@@ -15,7 +15,4 @@ The notebook demonstrates how to clean, preprocess, interpolate, and forecast na
 - **SciPy (interp1d)** → Cubic spline interpolation  
 - **Matplotlib** → Visualization  
 
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/natural-gas-forecasting.git
+
